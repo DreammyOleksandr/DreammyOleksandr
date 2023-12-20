@@ -14,9 +14,9 @@
 
 - 💎 React course [React](https://github.com/DreammyOleksandr/React)
 
-- 👨‍💻 All my projects are available at [https://github.com/DreammyOleksandr?tab=repositories](https://github.com/DreammyOleksandr?tab=repositories)
+- 👨‍💻 All my projects are available at [GitHub Repositories](https://github.com/DreammyOleksandr?tab=repositories)
 
-- 📝 Recently I started writing article about C# [https://github.com/DreammyOleksandr/DeepDiveIntoCSharpAsynchronousProgramming](https://github.com/DreammyOleksandr/DeepDiveIntoCSharpAsynchronousProgramming)
+- 📝 Recently I started writing article about C# [C# Asynchronous Programming](https://github.com/DreammyOleksandr/DeepDiveIntoCSharpAsynchronousProgramming)
 
 - 💬 Ask me about **C#, ASP.NET, SQL/noSQL.**
 
