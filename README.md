@@ -2,7 +2,7 @@
 [comment]: <[![MasterHead](https://www.spglobal.com/esg/perspectives/transparency-matters-banner-1.gif)](https://github.com/DreammyOleksandr)>
 <h1 align="center">Hi 👋 I'm (Dreammy) Oleksandr Bondarenko</h1>
 <h3 align="center">ASP.NET Backend Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://bit.ly/3psNYBV">
+<img align="right" alt="Coding" width="400" src="https://i.kym-cdn.com/photos/images/original/002/429/796/96c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreammyolkesandr&label=Profile%20views&color=0e75b6&style=flat" alt="dreammyolkesandr" /> </p>
 
