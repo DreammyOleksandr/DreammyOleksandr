@@ -2,7 +2,7 @@
 [comment]: <[![MasterHead](https://www.spglobal.com/esg/perspectives/transparency-matters-banner-1.gif)](https://github.com/DreammyOleksandr)>
 <h1 align="center">Hi 👋 I'm (Dreammy) Oleksandr Bondarenko</h1>
 <h3 align="center">ASP.NET Backend Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/3NP3M9aViooAAAAi/duck-waddling.gif">
+<img align="right" alt="Coding" width="400" src="https://bit.ly/3psNYBV">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreammyolkesandr&label=Profile%20views&color=0e75b6&style=flat" alt="dreammyolkesandr" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All my projects are available at [GitHub Repositories](https://github.com/DreammyOleksandr?tab=repositories)
 
-- 📝 Recently I started writing article about C# [C# Asynchronous Programming](https://github.com/DreammyOleksandr/DeepDiveIntoCSharpAsynchronousProgramming)
+- 📝 Recently I started writing article about [C# Asynchronous Programming](https://github.com/DreammyOleksandr/DeepDiveIntoCSharpAsynchronousProgramming)
 
 - 💬 Ask me about **C#, ASP.NET, SQL/noSQL.**
 
