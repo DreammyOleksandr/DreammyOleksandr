@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **albom2004q@gmail.com**
 
-- ⚡ Fun fact **I never broke a bone**
+- ⚡ Fun fact **I have never broken a bone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
