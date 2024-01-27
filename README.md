@@ -10,7 +10,7 @@
 
 - 🌱 FICT KPI Student **Uni, online courses**
 
-- 💶 My commercial website [MightyMats](https://github.com/DreammyOleksandr/MightyMats)
+- 💶 My commercial website [MightyMats](https://mightymats.azurewebsites.net/)
 
 - 💎 React course [React](https://github.com/DreammyOleksandr/React)
 
